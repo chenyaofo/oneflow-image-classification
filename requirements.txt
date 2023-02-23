@@ -1,0 +1,7 @@
+pyhocon
+crc32c
+tensorboardX
+
+--find-links https://release.oneflow.info
+oneflow==0.9.0+cu117
+flowvision==0.2.1
